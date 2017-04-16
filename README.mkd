@@ -1,0 +1,6 @@
+# Simple, Silly Setlist Spawner
+
+## Running
+```bash
+python make_setlist.py
+```
